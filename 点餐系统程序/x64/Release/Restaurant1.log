@@ -1,0 +1,25 @@
+﻿  UI.c
+D:\vs_code\Restaurant1\UI.c(378,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(378,17): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(383,21): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(383,21): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(388,32): warning C4101: “File”: 未引用的局部变量
+D:\vs_code\Restaurant1\UI.c(448,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(448,17): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(453,21): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(453,21): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(454,21): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(454,21): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(470,25): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(470,25): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(481,13): warning C4013: “Order_By_ID_W”未定义；假设外部返回 int
+D:\vs_code\Restaurant1\UI.c(489,21): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(489,21): message : 此参数用作缓冲区大小
+D:\vs_code\Restaurant1\UI.c(531,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs_code\Restaurant1\UI.c(531,17): message : 此参数用作缓冲区大小
+  正在生成代码
+  2 of 90 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Restaurant1.vcxproj -> D:\vs_code\Restaurant1\x64\Release\Restaurant1.exe
